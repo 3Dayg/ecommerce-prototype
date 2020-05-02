@@ -36,8 +36,6 @@ class App extends React.Component {
               //TODO check if it is ok to save url of pic on state
               //googleProfilePhoto : userAuth.photoURL
           });
-
-          console.log(this.state);
         });
         
       }
